@@ -1,0 +1,28 @@
+{
+    "name": "vue2-turnstile",
+    "version": "1.0.0",
+    "description": "Vue library for Cloudflare Turnstile CAPTCHA",
+    "type": "module",
+    "module": "./src/index.js",
+    "homepage": "https://github.com/vmartins/vue2-turnstile",
+    "author": {
+      "name": "Vitor Martins",
+      "url": "https://github.com/vmartins"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vmartins/vue2-turnstile"
+    },
+    "keywords": [
+      "cloudflare",
+      "turnstile",
+      "vue",
+      "captcha",
+      "vue2",
+      "library"
+    ],
+    "peerDependencies": {
+      "vue": "^2.7.16"
+    }
+  }
